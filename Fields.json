@@ -1,0 +1,119 @@
+{
+  "addRun": {
+    "type": "button",
+    "label": "Add 1 Run",
+    "value": "Add 1 Run"
+  },
+  "completeRun": {
+    "type": "button",
+    "label": "Remove 1 Run",
+    "value": "Remove 1 Run"
+  },
+  "resetData": {
+    "type": "button",
+    "label": "Reset ALL Data",
+    "value": "Reset ALL Data"
+  },
+  "goal": {
+    "type": "number",
+    "label": "Points Goal",
+    "value": 50,
+    "group": "Point Control"
+  },
+  "subValue": {
+    "type": "number",
+    "label": "Points per sub",
+    "value": 5,
+    "group": "Point Control"
+  },
+  "donationValue": {
+    "type": "number",
+    "label": "Points per 1 currency",
+    "value": 1,
+    "group": "Point Control"
+  },
+  "bitsValue": {
+    "type": "number",
+    "label": "Points per 1 Bit",
+    "value": 0.01,
+    "group": "Point Control"
+  },
+  "counterText": {
+    "type": "text",
+    "label": "Text before counter total",
+    "value": "Hat runs owed: ",
+    "group": "Upper Text"
+  },
+  "counterFontName": {
+    "type": "text",
+    "label": "Upper Font Name",
+    "value": "Roboto",
+    "group": "Upper Text"
+  },
+  "counterLabelColor": {
+    "type": "colorpicker",
+    "label": "Upper Font Color",
+    "value": "rgb(255, 255, 255)",
+    "group": "Upper Text"
+  },
+  "counterLabelSize": {
+    "type": "number",
+    "label": "Upper Font Size",
+    "value": 24,
+    "group": "Upper Text"
+  },
+  "startText": {
+    "type": "text",
+    "label": "Text before current count value",
+    "value": "$",
+    "group": "Bar Text"
+  },
+  "midText": {
+    "type": "text",
+    "label": "Text between current & goal values",
+    "value": " / $",
+    "group": "Bar Text"
+  },
+  "endText": {
+    "type": "text",
+    "label": "Text after the goal value",
+    "value": "",
+    "group": "Bar Text"
+  },
+  "barFontName": {
+    "type": "text",
+    "label": "Bar Font Name",
+    "value": "Roboto",
+    "group": "Bar Text"
+  },
+  "backgroundColor": {
+    "type": "colorpicker",
+    "label": "Background color",
+    "value": "rgb(55, 55, 55)",
+    "group": "Bar Text"
+  },
+  "barColor": {
+    "type": "colorpicker",
+    "label": "Bar color",
+    "value": "rgb(63, 63, 195)",
+    "group": "Bar Text"
+  },
+  "labelColor": {
+    "type": "colorpicker",
+    "label": "Label font color",
+    "value": "rgb(255, 255, 255)",
+    "group": "Bar Text"
+  },
+  "labelSize": {
+    "type": "number",
+    "label": "Label font Size",
+    "value": 24,
+    "group": "Bar Text"
+  },
+  "labelStroke": {
+    "type": "number",
+    "label": "Label stroke size",
+    "value": 1,
+    "group": "Bar Text"
+  }
+}
